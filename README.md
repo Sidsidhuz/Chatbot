@@ -31,7 +31,6 @@ The **Festival Anchor Voice Assistant** is a Python-based program that acts as a
    ```
 4. **API Keys**:
    - OpenWeatherMap: replace placeholder in `get_weather(city)`
-   - OpenAI GPT: set `openai.api_key = 'YOUR_KEY'`
 5. **Hardware**: Ensure a working microphone and speakers.
 6. **Voice Setting**: Update `engine.setProperty('voice', ...)` to match OS voice.
 
