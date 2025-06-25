@@ -2,7 +2,7 @@
 
 
 
-The **Festival Anchor Voice Assistant** is a Python-based program that acts as an interactive event “anchor” or personal assistant. It integrates speech recognition and text-to-speech to listen and respond to voice commands. Users can ask about the weather, get word definitions, hear jokes, listen to news, perform math calculations, and even chat with a GPT-4 powered “Jarvis.” The assistant processes the spoken query, performs the requested task, and replies out loud, simulating a friendly on-stage festival host.
+The **Festival Anchor Voice Assistant** is a Python-based program that acts as an interactive event “anchor” or personal assistant. It integrates speech recognition and text-to-speech to listen and respond to voice commands. Users can ask about the weather, get word definitions, hear jokes, listen to news, perform math calculations. The assistant processes the spoken query, performs the requested task, and replies out loud, simulating a friendly on-stage festival host.
 
 ## Features
 
