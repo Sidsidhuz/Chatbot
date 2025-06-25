@@ -370,7 +370,7 @@ def jarvis():
 def festival_anchor():
     global speaking_language
     global use_gtts
-    speaking_language = 'en'  # Default language is English
+    speaking_language = 'en'  
     use_gtts = False
 
     while True:
@@ -380,8 +380,8 @@ def festival_anchor():
 
              # Check if the user mentioned "Jarvis"
         if "jarvis" in user_query.lower():
-            jarvis()  # Call the Jarvis function
-            continue  # Skip the rest of the loop for this iteration
+            jarvis()  
+            continue  
 
 
 if __name__ == "__main__":
